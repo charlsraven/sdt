@@ -1,0 +1,9 @@
+D:\СВАЛКА_УЧЕБНАЯ\сем_6\технологии разработки по\5\WindowsFormsApp2\bin\Debug\data_binding.exe.config
+D:\СВАЛКА_УЧЕБНАЯ\сем_6\технологии разработки по\5\WindowsFormsApp2\bin\Debug\data_binding.exe
+D:\СВАЛКА_УЧЕБНАЯ\сем_6\технологии разработки по\5\WindowsFormsApp2\bin\Debug\data_binding.pdb
+D:\СВАЛКА_УЧЕБНАЯ\сем_6\технологии разработки по\5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\СВАЛКА_УЧЕБНАЯ\сем_6\технологии разработки по\5\WindowsFormsApp2\obj\Debug\data_binding.Properties.Resources.resources
+D:\СВАЛКА_УЧЕБНАЯ\сем_6\технологии разработки по\5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\СВАЛКА_УЧЕБНАЯ\сем_6\технологии разработки по\5\WindowsFormsApp2\obj\Debug\data_binding.exe
+D:\СВАЛКА_УЧЕБНАЯ\сем_6\технологии разработки по\5\WindowsFormsApp2\obj\Debug\data_binding.pdb
+D:\СВАЛКА_УЧЕБНАЯ\сем_6\технологии разработки по\5\WindowsFormsApp2\obj\Debug\wf2.Form1.resources
